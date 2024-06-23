@@ -26,11 +26,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkwo1013)](https://solved.ac/kkwo1013/) 
 
-<p align="left" title="simple icon">
-<a href="https://simpleicons.org/" rel="unfollow">
-  <img src="https://simpleicons.org/icons/simpleicons.svg" width="30">
-</a>
-</p>
-
-> 뱃지 만들기 사이트
-

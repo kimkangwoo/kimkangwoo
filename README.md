@@ -1,9 +1,3 @@
-안녕하세요 :hand:
-
-김강우 입니다. :smile:
-
-현재 저장소는 개인적으로 공부한 부분을 저장하려고 만들어놓은 저장소입니다. 
-
 <h1 align="center">
 :rocket:Programing Language<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-000000?style=flat-flat-square&logo=openjdk&logoColor=white"/>
